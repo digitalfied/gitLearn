@@ -1,0 +1,9 @@
+This is
+My second file
+
+
+public function getGreentings(){
+ echo 'Hello , Greetings';
+}
+
+
